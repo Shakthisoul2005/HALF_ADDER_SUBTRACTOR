@@ -1,11 +1,10 @@
 # HALF_ADDER_SUBTRACTOR
 
 exp3.Implementation-of-Half-Adder-and-Half Subtractor-circuit
-#
-developed by : shakthivel v
-#
-registration no : 24901278
-
+```
+Name : Shakthivel v
+Registration no : 24901278
+```
 **AIM:**
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -63,10 +62,6 @@ xor g1(sum,a,b);
 and g2 (cout,a,b);
 endmodule
 ```
-
-Developed by:
-#
-RegisterNumber:*/
 
 **RTL Schematic**
 ![Screenshot (52)](https://github.com/user-attachments/assets/dfe1c6ae-9810-49bd-8398-7985231b8317)
