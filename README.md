@@ -1,6 +1,11 @@
+
+```
+Nme : Shakthivel v
+Reg number:24901278
+```
 # HALF_ADDER_SUBTRACTOR
 
-exp3.Implementation-of-Half-Adder-and-Half Subtractor-circuit
+**EXP3.Implementation-of-Half-Adder-and-Half Subtractor-circuit**
 ```
 Name : Shakthivel v
 Registration no : 24901278
@@ -71,4 +76,4 @@ endmodule
 
 **Result:**
 
-To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified
+thus the half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified
